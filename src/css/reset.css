@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -10,4 +11,18 @@ list-style: none;
 
 a{
     text-decoration: none;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+list-style: none;
+}
+
+a{
+    text-decoration: none;
+>>>>>>> 5537c5a3d0d930d1437d9ead9b17e87ddbca6863
 } 
